@@ -192,7 +192,8 @@ input[type="radio"].visually-hidden {
 }
 
 .hero .container {
-  padding: 200px 252px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .hero-title {
@@ -255,6 +256,10 @@ input[type="radio"].visually-hidden {
 
 .process-list-item:not(:last-child) {
   margin-right: 30px;
+}
+
+.subtitle {
+  margin-bottom: 10px;
 }
 /*==============END WHAT WE DO================*/
 
@@ -354,7 +359,6 @@ input[type="radio"].visually-hidden {
 
 .portfolio-list-item {
   width: 370px;
-  height: 404px;
   background: var(--extra-color);
 
   box-sizing: border-box;
