@@ -241,6 +241,7 @@ input[type="radio"].visually-hidden {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-text-title);
+  margin-bottom: 10px;
 }
 /*============== END FEATURES================*/
 
@@ -256,10 +257,6 @@ input[type="radio"].visually-hidden {
 
 .process-list-item:not(:last-child) {
   margin-right: 30px;
-}
-
-.subtitle {
-  margin-bottom: 10px;
 }
 /*==============END WHAT WE DO================*/
 
