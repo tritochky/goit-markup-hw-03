@@ -1,3 +1,3 @@
 # goit-markup-hw-03
 How it has begun...
-https://tritochky.github.io/goit-markup-hw-03/
+https://tritochky.github.io/goit-markup-hw-03/ 
