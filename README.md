@@ -1,2 +1,3 @@
 # goit-markup-hw-03
-Home-work 3
+How it has begun...
+https://tritochky.github.io/goit-markup-hw-03/
